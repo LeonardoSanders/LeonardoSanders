@@ -8,13 +8,14 @@
 
 - 🔭 Ainda não trabalho na área
 - 🌱 Atualmente estou aprendendo Java
-- 😄 Pronouns: ele/dele
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/leonardosanders/)
 ---
 
 ## 📊 Status
 [![Leonardo Sanders GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoSanders&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSanders&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🧰 Linguagens e Ferramentas
 
