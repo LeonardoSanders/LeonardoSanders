@@ -1,6 +1,6 @@
 # 🧑‍💻 Leonardo Sanders
 
-#### **`Desenvolvedor Backend`**
+#### **`Desenvolvedor`**
 ---
 
 **Olá, Seja bem-vindo ao meu GitHub!** 👋
