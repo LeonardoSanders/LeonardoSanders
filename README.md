@@ -6,7 +6,7 @@
 **Olá, Seja bem-vindo ao meu GitHub!** 👋
 
 
-- 🔭 Estagiário FullStack no Instituto Eldorado
+- 🔭 Estagiário Full Stack no Instituto Eldorado
 - 🌱 Atualmente estou aprendendo TypeScript, Angular e Criação de API's com Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/leonardosanders/)
